@@ -26,19 +26,19 @@ Press the keys (**w, a, s, d, j, k, l**) or click the drum pads to play differen
 
 
 ## 🛠️ Technologies Used
-- **HTML5** – Structure  
-- **CSS3** – Styling & gradient animations  
+- **HTML5** - Structure  
+- **CSS3** - Styling & gradient animations  
 - **JavaScript (ES6)** - Event handling, sound playback, button animations  
 - **DOM (Document Object Model)** - To manipulate elements and respond to user interactions  
 
 
 ## 📂 Project Structure
 
-- index.html # Main HTML file
-- styles.css # Styling (gradient background + drum design)
-- index.js # JavaScript logic (event listeners + sounds using DOM)
-- sounds/ # Drum sound files (mp3)
-- images/ # Drum images for buttons
+- index.html - Main HTML file
+- styles.css - Styling (gradient background + drum design)
+- index.js - JavaScript logic (event listeners + sounds using DOM)
+- sounds/ - Drum sound files (mp3)
+- images/ - Drum images for buttons
 
 
 ## ⚡ How to Run
